@@ -1,4 +1,4 @@
-﻿namespace StudentProfileAPI.Models
+﻿namespace StudentProfileAPI.Domain.Models
 {
     public class Student
     {
